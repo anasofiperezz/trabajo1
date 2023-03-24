@@ -9,7 +9,7 @@ tasks = [
     {
         'id': 1,
         'name': 'cocinar algo bien sabroso',
-        'status': False
+        'status': True
     },
     {
         'id': 2,
